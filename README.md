@@ -1,6 +1,6 @@
 ## Hi, I AM ŐŃXX 
-<img width="1080" height="1080" alt="147246" src="https://github.com/user-attachments/assets/c6291c88-cc9b-4dae-9b28-a3b32dce14b4" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Python+%26+Bash+Developer;Tools+Banata+Hoon;Automation+Lover;Open+Source+Contributor" alt="Typing SVG" />
+<img width="1080" height="1080" alt="147246" src="https://github.com/user-attachments/assets/7661ac76-91bc-4ec8-8c08-27b756a7e8cb" />
+
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_insrnx_)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/onxx12)
