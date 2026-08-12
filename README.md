@@ -1,5 +1,6 @@
 ## Hi, I AM ŐŃXX 
-<img width="1080" height="1080" alt="147246" src="https://github.com/user-attachments/assets/7661ac76-91bc-4ec8-8c08-27b756a7e8cb" />
+<img width="500" height="507" alt="29161" src="https://github.com/user-attachments/assets/ac5b94eb-fe18-4528-9e71-1b001e2573b4" />
+
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_insrnx_)
