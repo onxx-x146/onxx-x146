@@ -1,7 +1,7 @@
 ## Hi, I AM ŐŃXX 
 <img width="1280" height="720" alt="29179" src="https://github.com/user-attachments/assets/22387bfb-d8df-4474-9990-f0b40f00bd1d" />
 
-
+## Tool website 👇🏻
 
 [![Netlify](https://img.shields.io/badge/Netlify-FF0000?style=for-the-badge&logo=netlify&logoColor=white)](https://onxx1.netlify.app/)
 
@@ -57,25 +57,6 @@ Agar tumhe coding, tools ya automation mein interest hai to zaroor connect karo!
 ---
 
 <br>
-
-## 🌐 Social Links
-
-<div align="center">
-
-### 📷 Instagram
-**[_insrnx_🖤](https://instagram.com/_insrnx_)**
-
-<br>
-
-### ✈️ Telegram
-**[onxx12 🤍](https://t.me/onxx12)**
-
-<br>
-
-### ▶️ YouTube
-**[ONXX 🐈‍⬛](https://youtube.com/@onxx-x145)**
-
-</div>
 
 ---
 
