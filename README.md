@@ -10,7 +10,7 @@
 
 # *Install onxx-AI App 🐈‍⬛*
 <p>
-  <a href="https://www.mediafire.com/file/3w54lxpstscnia8/onxx-ai.apk/file">
+  <a href="https://mega.nz/file/i8IAEApD#7bUL6qELWu6FrScVSUJdVVXfFmfTTClMWehCf-IAlGE/file">
     <img src="https://img.shields.io/badge/Download-FF0000?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" height="50">
   </a>
 </p>
