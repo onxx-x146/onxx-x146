@@ -1,11 +1,9 @@
 ## Hi, I AM ŐŃXX 
-<img width="500" height="507" alt="29161" src="https://github.com/user-attachments/assets/ac5b94eb-fe18-4528-9e71-1b001e2573b4" />
+<img width="1280" height="720" alt="29179" src="https://github.com/user-attachments/assets/22387bfb-d8df-4474-9990-f0b40f00bd1d" />
 
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_insrnx_)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/onxx12)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@onxx-145)
+[![Netlify](https://img.shields.io/badge/Netlify-FF0000?style=for-the-badge&logo=netlify&logoColor=white)](https://onxx1.netlify.app/)
 
 </div>
 
