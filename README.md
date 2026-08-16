@@ -3,7 +3,7 @@
 
 ## Tool website 👇🏻
 
-[![Netlify](https://img.shields.io/badge/Netlify-FF0000?style=for-the-badge&logo=netlify&logoColor=white)](https://onxx1.netlify.app/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://onxx1.vercel.app/)
 [![Telegram](https://img.shields.io/badge/Telegram-FF000R?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/vasu90)
 
 </div>
